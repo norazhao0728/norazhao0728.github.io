@@ -1,5 +1,5 @@
 ---
-title: Using ONAP  0505
+title: Using ONAP
 ---
 
 ## Purpose
